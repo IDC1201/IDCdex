@@ -44,7 +44,7 @@ API docs are available at https://api.serverfuse.tools/
 
 To get coins to play with on the live testnet, you'll need to use the faucet. To do so, follow these steps:
 
-1. Click the wallet icon in the left sidebar. It looks like this: ![Wallet Icon](.dex-demo-0.0.0.2/docs/images/wallet-icon.png)
+1. Click the wallet icon in the left sidebar. It looks like this: ![Wallet Icon](.dex-demo-0.0.2/docs/images/wallet-icon.png)
 2. Copy the address that appears on screen.
 3. Navigate to [faucet.serverfuse.tools](https://faucet.serverfuse.tools) in your web browser.
 4. Paste in your address, choose a coin type, and click the Send button. Once your request is processed, you will receive some coins of the specified type.
