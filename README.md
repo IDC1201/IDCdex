@@ -14,7 +14,7 @@ that can be built on the Cosmos SDK. This platform intends to utilize certain DE
 creating a decentralized exchange network that utilizes various crypto primitives for the facilitation
 of value transfers across systems.
 
-![IDX DeX Demo](./.screenshots/photo5026111012457261159.jpg)
+![IDCdex](./.screenshots/photo5026111012457261159.jpg)
 
 ## Getting The Code
 
@@ -40,7 +40,7 @@ API docs are available at https://api.serverfuse.tools/
 
 ### Getting Coins
 
-![DeX Demo](./.screenshots/photo5026111012457261162.jpg)
+![IDCdex](./.screenshots/photo5026111012457261162.jpg)
 
 To get coins to play with on the live testnet, you'll need to use the faucet. To do so, follow these steps:
 
