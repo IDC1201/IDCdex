@@ -13,7 +13,7 @@ that can be built on the Cosmos SDK. This platform intends to utilize certain DE
 creating a decentralized exchange network that utilizes various crypto primitives for the facilitation
 of value transfers across systems.
 
-![DeX Demo](./.screenshots/photo5026111012457261159.jpg)
+![IDX DeX Demo](./.screenshots/photo5026111012457261159.jpg)
 
 ## Getting The Code
 
