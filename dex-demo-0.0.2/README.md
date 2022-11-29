@@ -4,9 +4,9 @@ The code hosted in this repository is a **technology preview** and is suitable f
 
 **Use this software at your own risk**.
 
-# DeX Demo
+# IDCdex Demo
 
-[![CircleCI](https://circleci.com/gh/tendermint/dex-demo.svg?style=svg)](https://circleci.com/gh/tendermint/dex-demo)
+
 
 The goal of this demo is to explore, ideate, and create the next set of decentralized exchange (DEX) projects
 that can be built on the Cosmos SDK. This platform intends to utilize certain DEX frameworks toward
