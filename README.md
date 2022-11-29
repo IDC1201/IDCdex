@@ -1,4 +1,4 @@
-# IDCdex
+# IDC dex prototipe
 # Disclaimer
 
 The code hosted in this repository is a **technology preview** and is suitable for **demo purposes only**. The features provided by this draft implementation are not meant to be functionally complete and are not suitable for deployment in production.
